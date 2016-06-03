@@ -1,0 +1,12 @@
+# Minion Version 1.8
+# HG version: 0
+# HG last changed date: unknown
+#  Run at: UTC Fri Jun  3 18:10:14 2016
+
+#    http://minion.sourceforge.net
+# If you have problems with Minion or find any bugs, please tell us!
+# Mailing list at: https://mailman.cs.st-andrews.ac.uk/mailman/listinfo/mug
+# Input filename: ../modeling2/ex2.minion
+# Command line: ./minion ../modeling2/ex2.minion 
+There was a problem in your input file:
+Can't open given input file '../modeling2/ex2.minion'.
